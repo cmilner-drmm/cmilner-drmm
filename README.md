@@ -1,11 +1,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=cmilner-drmm&color=brightgreen)
-[![GitHub followers](https://img.shields.io/github/followers/cmilner-drmm.svg?style=social&label=Follow)](https://github.com/cmilner-drmm?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clint-milner/)
 
 ## 🌎 Hello World
-- 👋 Hi, I’m @cmilner-drmm - Head of FE and Team Lead for Datto RMM
-- 👀 I’m interested in JavaScript, TypeScript, modern CSS and server-side JavaScript frameworks.
+- 👋 Hi, I’m Clint Milner (`@cmilner-drmm`) - Head of FE and Team Lead for Datto RMM
+- 💻 I’m interested in JavaScript, TypeScript, modern CSS and server-side JavaScript frameworks.
 - 📫 How to reach me cmilner@datto.com, in MS Teams or https://www.linkedin.com/in/clint-milner/
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: US born, but UK based. 🇺🇸 🤝🏼 🇬🇧
 
 ##
