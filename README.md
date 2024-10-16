@@ -9,8 +9,6 @@
 
 ##
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=cmilner-drmm&show_icons=true&theme=radical)
-<!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmilner-drmm&layout=compact&theme=radical) --->
-<!--- ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=cmilner-drmm&theme=radical) --->
 
 
 <!---
